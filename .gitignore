@@ -1,0 +1,14 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+# Python byte code
+*.pyc
+
+# Python Virtual Environment
+env/
+
+#Wheel built files
+dist/
+build/
+directionfinder.egg-info/
+
