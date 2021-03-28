@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='directionfinder',
-    version='0.1',
+    version='0.3',
     #scripts=['directions'] ,
     author="Aayush Pokharel",
     author_email="rockmanpokharel@yahoo.com",
